@@ -1,0 +1,11 @@
+C:\COBAN\20230409\Ornek1\Ornek1\bin\Debug\Ornek1.exe.config
+C:\COBAN\20230409\Ornek1\Ornek1\bin\Debug\Ornek1.exe
+C:\COBAN\20230409\Ornek1\Ornek1\bin\Debug\Ornek1.pdb
+C:\COBAN\20230409\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.AssemblyReference.cache
+C:\COBAN\20230409\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.SuggestedBindingRedirects.cache
+C:\COBAN\20230409\Ornek1\Ornek1\obj\Debug\Ornek1.Form1.resources
+C:\COBAN\20230409\Ornek1\Ornek1\obj\Debug\Ornek1.Properties.Resources.resources
+C:\COBAN\20230409\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.GenerateResource.cache
+C:\COBAN\20230409\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+C:\COBAN\20230409\Ornek1\Ornek1\obj\Debug\Ornek1.exe
+C:\COBAN\20230409\Ornek1\Ornek1\obj\Debug\Ornek1.pdb
